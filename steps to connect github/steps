@@ -13,3 +13,7 @@ master=repository name.
 o/p
 origin  https://github.com/SachinMittalkod/FrontEndConnect-MERN-.git (fetch)
 origin  https://github.com/SachinMittalkod/FrontEndConnect-MERN-.git (push)
+7) to remove remote
+git remote remove origin
+8) to add remote name
+git remote add superman
