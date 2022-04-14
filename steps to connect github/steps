@@ -7,5 +7,9 @@ to save it in a local repository
 4)git push origin master
 master= branch name, origin=remotename
 5) if any changes made in github you want update in your local 
-goto vs code and type " git pull origin master
+goto vs code and type " git pull origin master"
 master=repository name.
+6)git remote -v
+o/p
+origin  https://github.com/SachinMittalkod/FrontEndConnect-MERN-.git (fetch)
+origin  https://github.com/SachinMittalkod/FrontEndConnect-MERN-.git (push)
