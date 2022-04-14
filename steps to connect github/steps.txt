@@ -17,3 +17,5 @@ origin  https://github.com/SachinMittalkod/FrontEndConnect-MERN-.git (push)
 git remote remove origin
 8) to add remote name
 git remote add superman
+9) if any changes made in local need to push to remote repository
+git push origin master
