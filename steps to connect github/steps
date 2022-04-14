@@ -1,0 +1,6 @@
+1)git init --->o/p 
+Initialized empty Git repository in E:/FrontEndConnect/.git/
+2)git add .
+to save it in a local repository
+3)git commit -a -m  "my new commit"
+-a=all, -m=message
