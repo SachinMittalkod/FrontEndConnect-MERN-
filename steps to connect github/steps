@@ -4,3 +4,8 @@ Initialized empty Git repository in E:/FrontEndConnect/.git/
 to save it in a local repository
 3)git commit -a -m  "my new commit"
 -a=all, -m=message
+4)git push origin master
+master= branch name
+5) if any changes made in github you want update in your local 
+goto vs code and type " git pull origin master
+master=repository name.
